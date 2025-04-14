@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Reconnaissance](README.md)
+* [Hacker's Notes Sha256](README.md)
+* [Reconnaissance](<README (1).md>)
   * [Passive information gathering](recon/passive-information-gathering.md)
   * [Active information gathering](recon/active-information-gathering.md)
 * [Exploitation](exploitation/README.md)
