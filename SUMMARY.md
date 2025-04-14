@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Hacker's Grimoire](README.md)
-* [Reconnaissance](recon/README.md)
+* [Reconnaissance](README.md)
   * [Passive information gathering](recon/passive-information-gathering.md)
   * [Active information gathering](recon/active-information-gathering.md)
 * [Exploitation](exploitation/README.md)
@@ -23,4 +22,3 @@
 * [Linux basics](linux-basics.md)
 * [Windows basics](windows-basics.md)
 * [Learning resources](learning-resources.md)
-
